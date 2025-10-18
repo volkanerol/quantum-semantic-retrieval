@@ -1,0 +1,10 @@
+# Minimal
+numpy>=1.20.0
+
+# Full simulation
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# Optional: Qiskit
+# qiskit>=1.0.0
+# qiskit-aer>=0.13.0
